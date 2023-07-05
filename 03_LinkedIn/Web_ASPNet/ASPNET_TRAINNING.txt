@@ -1,0 +1,5 @@
+docs.microsoft.com/en-us/aspnet/core/
+docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware
+github.com/aspnet
+blogs.msdn.microsoft.com/webdev/
+twitter.com/aspnet
